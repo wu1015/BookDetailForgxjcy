@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        高校教材云平台查看ISBN
+// @name        高校教材云平台书籍信息查看
 // @namespace   https://github.com/wu1015/BookDetailForGxjcy
 // @supportURL  https://github.com/wu1015/BookDetailForGxjcy/issues
 // @match       https://www.gxjcy.cn/index
