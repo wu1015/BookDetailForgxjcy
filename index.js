@@ -5,6 +5,7 @@
 // @match       https://www.gxjcy.cn/index
 // @grant       GM_xmlhttpRequest
 // @version     1.0
+// @license     MIT
 // @author      wu1015
 // @description 平台不再显示ISBN等关键信息，但后台又有数据传出，故写此脚本方便使用。
 // ==/UserScript==
